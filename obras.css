@@ -1,0 +1,104 @@
+*{
+   margin:0 ;
+   padding:0 ;
+}
+
+header{
+    background:#85C1E9;
+    width: 100%;
+    height: 80px;
+    padding-top: 30px;
+}
+
+header h1{
+    text-align: center;
+    color: black;
+    font-family: courier;
+    font-size: 50px;
+}
+
+header img{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: -20px 0px 0px 10px;
+}
+
+nav{
+    width: 100%;
+    height: 35px;
+    background: white;
+}
+
+nav ul{
+    text-align: center;
+    padding-top:2px;
+}
+
+nav ul a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-family: verdana;
+    padding: 5px;
+}
+
+nav ul a:hover{
+    background: #85C1E9;
+    color: floralwhite;
+}
+
+ section h2{
+  font-family: verdana;
+     text-align: center;
+     font-size: 20px;
+}
+
+ section ul a{
+  font-family: verdana;
+     text-decoration: none;
+     font-size: 17px;
+     color: skyblue;
+}
+
+ section ul a:hover{
+     background:#F9E79F;
+     color: black;
+}
+
+#barra{
+    width: 200px;
+    min-height: 700px;
+    background:#F9E79F;
+    margin: 5px;
+    display: inline-block;
+}
+
+#seccion{
+    width: 1000px;
+    min-height: 600px;
+    background: ##FFFFFF;
+    float: right;
+    margin: 5px;
+    display: inline-block;
+}
+
+article{
+    width: 90%;
+    background: #FFFF;
+    height: 250px;
+}
+
+article img{
+    height:200px;
+    width: 200px;
+    float: left;
+     padding: 5px;
+}
+
+article p{
+    font-family: Vedana;
+    font-size: 20px;
+    padding-top: 15px;
+}
